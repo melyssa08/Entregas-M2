@@ -1,0 +1,17 @@
+body {
+    background-color: burlywood;
+    color: rgb(216, 158, 158);
+    display: grid;
+    height: 100%;
+}
+
+#main, #header, #footer {
+    padding-left: 2%;
+    background-color: purple;
+
+}
+
+#container-botao {
+    display: flex;
+    justify-content: center;
+}
